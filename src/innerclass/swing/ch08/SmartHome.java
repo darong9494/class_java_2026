@@ -28,7 +28,6 @@ public class SmartHome {
                 System.out.println("에어컨 가동: 현재온도 : " + t + "도 최적화 중...");
             }
         };
-
         // 사용해보기
         listenerAdapter.onTemperatureChange(23);
     } // end of main

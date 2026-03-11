@@ -15,7 +15,6 @@ public class MyFrame extends JFrame implements KeyListener {
         initData();
         setInitLayout();
         addEventListener();
-
     }
 
     private void initData() {
